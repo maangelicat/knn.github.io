@@ -1,4 +1,4 @@
-from knn import distancia_euclidiana, k_vecinos_mas_cercanos, clasificar, knn_clasificacion
+from Knn import distancia_euclidiana, k_vecinos_mas_cercanos, clasificar, knn_clasificacion
 
 def test_distancia_euclidiana():
     punto1 = (0, 0)
